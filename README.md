@@ -49,7 +49,7 @@ The web page is divided into several key sections, each representing a different
 1. Clone the GitHub repository:
 
    ```bash
-   git clone https://github.com/your-username/your-resume-project.git
+   git clone https://github.com/ShenghaoisYummy/Resume.git
    ```
 
 2. Cd to your-resume-project
