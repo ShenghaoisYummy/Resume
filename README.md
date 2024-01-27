@@ -61,6 +61,7 @@ The web page is divided into several key sections, each representing a different
 
     npm run dev
    ```
+3. Open http://localhost:5173 to view it in the browser.
 
 ## Customization
 
