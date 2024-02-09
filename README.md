@@ -26,6 +26,10 @@ This is a personal Resume Web Page, meticulously crafted using the React framewo
 
 ![Screenshot of Resume Web Page](/src/assets/images/resume.png)
 
+## Demo
+
+https://musical-monstera-c8159c.netlify.app
+
 ## Components
 
 The web page is divided into several key sections, each representing a different aspect of the professional profile:
